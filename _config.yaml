@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: CMU National Biomechanics Day 2023
 description: Welcome to National Biomechanics Day at CMU!
-logo: images/cmu-ndb-logo.svg
+logo: images/cmu-nbd-logo.svg
 header: images/cmu-banner-inkscapepng.png
 footer: images/cmu-banner-inkscapepng.png
 baseurl: /cmu-nbd-S2023
