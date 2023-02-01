@@ -2,32 +2,32 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# CMU National Biomechanics Day 2023
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Welcome to National Biomechanics Day at CMU! Register for the event [here](https://github.com/greenelab/lab-website-template). This is a two-day event held virtually on March 26th and in-person at CMU on April 2nd. We aim to introduce Biomechanics to high school students and teachers. Learn about impacts of climate change on [animal biomechanics](https://www.greenelab.com/), [3D printed prostheses](https://www.greenelab.com/), design your own [structure made out of DNA](https://www.greenelab.com/), and [more](https://www.greenelab.com/)!
+
 
 {%
   include link.html
-  type="github"
+  type="search"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="Check out CMU NBD 2021"
+  link="https://cmubiomechday.wordpress.com/2021-homepage/"
   style="button"
 %}
 {%
   include link.html
-  type="docs"
+  type="search"
   icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  text="Check out CMU NBD 2022"
+  link="https://cmubiomechday.wordpress.com/"
   style="button"
 %}
 {:.center}
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/cmu-banner-2.png" %}
 
 {% include section.html %}
 
@@ -72,8 +72,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  link="sessions/3d-printing-legs"
+  title="3D Printing Legs"
+  icon="fa-solid fa-print"
   flip=true
   text=text
 %}

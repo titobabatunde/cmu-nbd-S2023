@@ -2,22 +2,38 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
-postdoc:
-  icon: fas fa-glasses
-  text: Postdoctoral Researcher
+session:
+  icon: fa-solid fa-scroll
+  # text: Postdoctoral Researcher
 
-phd:
-  icon: fas fa-graduation-cap
-  text: PhD Student
+outreach:
+  icon: fa-solid fa-hand-holding-heart
+  # text: PhD Student
 
-undergrad:
-  icon: fas fa-user-graduate
-  text: Undergraduate Student
+coordinator:
+  icon: fa-solid fa-users-gear
+  # text: Undergraduate Student
+
+developer:
+  icon: fa-brands fa-internet-explorer
+  text: Web Developer
+
+funding:
+  icon: fa-solid fa-filter-circle-dollar
+  text: Funding
+
+protections:
+  icon: fa-solid fa-user-shield
+  # text: Mascot
 
 programmer:
-  icon: fas fa-code
-  text: Programmer
+  icon: fa-brands fa-internet-explorer
+  # text: Web Developer
 
-mascot:
-  icon: fas fa-dog
-  text: Mascot
+registration:
+  icon: fa-solid fa-signature
+  # text: Funding
+
+planner:
+  icon: fa-solid fa-gears
+  # text: Funding

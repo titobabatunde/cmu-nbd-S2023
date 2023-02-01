@@ -1,21 +1,18 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+title: CMU National Biomechanics Day 2023
+description: Welcome to National Biomechanics Day at CMU!
+logo: images/cmu-ndb-logo.svg
+header: images/cmu-banner-inkscapepng.png
+footer: images/cmu-banner-inkscapepng.png
 baseurl: /cmu-nbd-S2023
+# images/background.jpg
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: biomechday@andrew.cmu.edu
+  youtube: "@cmunationalbiomechanicsday4571"
 
 ### advanced settings
 

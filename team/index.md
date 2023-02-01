@@ -1,16 +1,13 @@
 ---
-title: Team
+title: Directors
 nav:
   order: 3
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>Directors
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p style="text-align:center">Meet the directors of the Carnegie Mellon University National Biomecanics Day 2023.</p>
 
 {% include section.html %}
 
@@ -18,19 +15,49 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: planner"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: coordinator"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: registration"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: outreach"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: funding"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: developer"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: protections"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: session"
 %}
 {:.center}
 

@@ -1,47 +1,69 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: 3D Printing Legs
+  subtitle: Saul Schaffer
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/3d_printing_legs.jpg
+  link: sessions/3d-printing-legs
+  description: Learn now 3D scanning + 3D printing is used for low-cost prosthetic devices to broaden access to healthcare.
   tags:
-    - resource
+    - prosthetics
+    - 3D printing
+    - healthcare
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: "Muscles: The workings of the Hand"
+  subtitle: Erica Martelly
   group: featured
-  image: images/photo.jpg
+  image: images/muscles-the-working-of-the-hand-1.png
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Learn and test how the muscles in out hands work and how they can fail. We will have fun experiments for you to try.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
+    - muscles
 
-- title: Cool Tutorial
+- title: Remote Controlled Muscles
+  subtitle: Saul Schaffer
   group: more
-  image: images/photo.jpg
+  image: images/remote-controlled-muscles.gif
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Learn about how your brain controls your muscles with hands on electrophysiology demo.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - muscles
+    - EMG
+    - controls
 
-- title: Cool Web App
+- title: Markerless Motion Capture
+  subtitle: Vu Phan
   group: more
-  image: images/photo.jpg
+  image: images/motion-capture.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Learn about markerless motion capture using computer vision.
+  # repo: greenelab/lab-website-template
+  # https://ar-tracking.com/en/product-program/motion-capture
   tags:
-    - software
+    - movie
+    - games
+    - computer vision
 
-- title: Cool Web Server
+- title: Challenges during Organ Preservation
+  subtitle: Devarsh Vispute
   group: more
-  image: images/photo.jpg
+  image: images/organ_cryopreservation.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Learn about how low temperatures affect organ preservation.
+  # repo: greenelab/lab-website-template
+  # https://pharma-mon.com/organ-transport-monitoring/future-of-cryopreservation-clinical-applications/
   tags:
-    - software
+    - research
+    - cryo-EM
+    - healthcare
+
+- title: Become a Rock Climber
+  subtitle: Nathan Zimmer
+  group: more
+  image: images/alex-honnold.jpg
+  link: https://github.com/
+  description: Learn about the biomechanics of rock climbing. Become Alex Honnold is 60 minutes or less guaranteed.
+  # repo: greenelab/lab-website-template
+  # https://pharma-mon.com/organ-transport-monitoring/future-of-cryopreservation-clinical-applications/
+  tags:
+    - rock climbing

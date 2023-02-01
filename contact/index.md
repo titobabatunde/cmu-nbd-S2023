@@ -14,9 +14,9 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="biomechday@andrew.cmu.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="biomechday@andrew.cmu.edu"
   style="button"
 %}
 {%
