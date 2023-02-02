@@ -1,6 +1,6 @@
-pi:
-  icon: fas fa-microscope
-  text: Principal Investigator
+worker:
+  icon: fa-solid fa-user-gear
+  # text: Session Leader
 
 session:
   icon: fa-solid fa-scroll

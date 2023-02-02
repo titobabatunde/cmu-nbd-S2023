@@ -27,7 +27,7 @@ Welcome to National Biomechanics Day at CMU! Register for the event [here](https
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/cmu-banner-2.png" %}
+{% include banner.html image="images/cmu-banner-inkscapepng.png" %}
 
 {% include section.html %}
 
@@ -40,7 +40,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See how to sign-up"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -51,7 +51,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Registration"
   text=text
 %}
 
@@ -62,7 +62,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Browse our sessions"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -73,7 +73,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="sessions/3d-printing-legs"
-  title="3D Printing Legs"
+  title="Sessions"
   icon="fa-solid fa-print"
   flip=true
   text=text
@@ -96,9 +96,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Our Directors"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

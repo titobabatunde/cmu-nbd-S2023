@@ -13,7 +13,7 @@
   subtitle: Erica Martelly
   group: featured
   image: images/muscles-the-working-of-the-hand-1.png
-  link: https://github.com/
+  link: sessions/muscles-the-workings-of-the-hand
   description: Learn and test how the muscles in out hands work and how they can fail. We will have fun experiments for you to try.
   # repo: greenelab/lab-website-template
   tags:
@@ -23,7 +23,7 @@
   subtitle: Saul Schaffer
   group: more
   image: images/remote-controlled-muscles.gif
-  link: https://github.com/
+  link: sessions/remote-controlled-muscles
   description: Learn about how your brain controls your muscles with hands on electrophysiology demo.
   # repo: greenelab/lab-website-template
   tags:
@@ -35,7 +35,7 @@
   subtitle: Vu Phan
   group: more
   image: images/motion-capture.jpg
-  link: https://github.com/
+  link: sessions/markerless-motion-capture
   description: Learn about markerless motion capture using computer vision.
   # repo: greenelab/lab-website-template
   # https://ar-tracking.com/en/product-program/motion-capture
@@ -48,7 +48,7 @@
   subtitle: Devarsh Vispute
   group: more
   image: images/organ_cryopreservation.jpg
-  link: https://github.com/
+  link: sessions/organ-cryopreservation
   description: Learn about how low temperatures affect organ preservation.
   # repo: greenelab/lab-website-template
   # https://pharma-mon.com/organ-transport-monitoring/future-of-cryopreservation-clinical-applications/
@@ -58,10 +58,10 @@
     - healthcare
 
 - title: Become a Rock Climber
-  subtitle: Nathan Zimmer
+  subtitle: Nathan Zimmerer
   group: more
   image: images/alex-honnold.jpg
-  link: https://github.com/
+  link: sessions/become-a-rock-climber
   description: Learn about the biomechanics of rock climbing. Become Alex Honnold is 60 minutes or less guaranteed.
   # repo: greenelab/lab-website-template
   # https://pharma-mon.com/organ-transport-monitoring/future-of-cryopreservation-clinical-applications/
