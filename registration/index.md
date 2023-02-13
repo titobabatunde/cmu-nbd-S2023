@@ -12,8 +12,18 @@ nav:
   type="docs"
   icon=""
   text="Register here"
-  link="https://cmubiomechday.wordpress.com/2021-homepage/"
+  link="https://forms.gle/6HjG8niUwWhHafg78"
   style="button"
+%}
+{:.center}
+
+
+{%
+  include gallery.html
+
+  image1="images/NBD2023.png"
+  link1="https://forms.gle/6HjG8niUwWhHafg78"
+
 %}
 {:.center}
 
