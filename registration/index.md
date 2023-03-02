@@ -22,8 +22,8 @@ nav:
     <thead>
         <tr>
             <th> </th>
-            <th colspan=2>Mechanics Sessions</th>
-            <th colspan=2>Hand/Bio Sessions</th>
+            <th colspan=2>Freeze Tag: Forces, Freezing, and Fun, Oh My!</th>
+            <th colspan=2>Grasping at Straws</th>
         </tr>
     </thead>
     <tbody>
@@ -59,6 +59,13 @@ nav:
         </tr>
     </tbody>
 </table>  
+
+
+{% include link.html type="docs" icon="fa-solid fa-location-dot" text="(D10) Motion Capture Lab in ANSYS" link="https://www.google.com/search?client=firefox-b-1-d&q=431+Hamerschlag+Dr%2C+Pittsburgh%2C+PA+15213" style="button" %}
+{% include link.html type="docs" icon="fa-solid fa-location-dot" text="(HH) Devarsh’s lab in Hamerschlag" link="https://www.google.com/search?client=firefox-b-1-d&q=Hamerschlag+Hall%2C+Pittsburgh%2C+PA+15213" style="button" %}
+{% include link.html type="docs" icon="fa-solid fa-location-dot" text="(?) DS or the computer lab in ANSYS" link="https://www.google.com/search?client=firefox-b-1-d&q=431+Hamerschlag+Dr%2C+Pittsburgh%2C+PA+15213" style="button" %}
+{% include link.html type="docs" icon="fa-solid fa-location-dot" text="(DS) Design Studio in ANSYS" link="https://www.google.com/search?client=firefox-b-1-d&q=431+Hamerschlag+Dr%2C+Pittsburgh%2C+PA+15213" style="button" %}
+{:.center}
 
 {%
   include gallery.html
