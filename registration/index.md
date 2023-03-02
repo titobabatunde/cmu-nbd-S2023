@@ -18,6 +18,48 @@ nav:
 {:.center}
 
 
+<table>
+    <thead>
+        <tr>
+            <th> </th>
+            <th colspan=2>Mechanics Sessions</th>
+            <th colspan=2>Hand/Bio Sessions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="max-width:100%;white-space:nowrap"><i>20-30 Kids</i></td>
+            <td><i>Group A (5-7 kids)</i></td>
+            <td><i>Group B (5-7 kids)</i></td>
+            <td><i>Group C (5-7 kids)</i></td>
+            <td><i>Group D (5-7 kids)</i></td>
+        </tr>
+        <tr>
+            <td style="max-width:100%;white-space:nowrap">12:30-1:20 PM</td>
+            <td>{% include link.html text="Challenges during Organ Preservation (HH)" link="sessions/organ-cryopreservation" %}</td>
+            <td>{% include link.html text="MiniRHex (DS)" link="sessions/mini-r-hex" %}</td>
+            <td>{% include link.html text="Biomechanics of Hand Rigging and Animation (?)" link="sessions/hand-rigging-and-animation" %}</td>
+            <td>{% include link.html text="Mechanics of Rock Climbing (DS)" link="sessions/become-a-rock-climber" %}</td>   
+        </tr>
+        <tr>
+            <td style="max-width:100%;white-space:nowrap">1:30-2:20 PM</td>
+            <td>{% include link.html text="MiniRHex (DS)" link="sessions/mini-r-hex" %}</td>
+            <td>{% include link.html text="Challenges during Organ Preservation (HH)" link="sessions/organ-cryopreservation" %}</td>
+            <td>{% include link.html text="Mechanics of Rock Climbing (DS)" link="sessions/become-a-rock-climber" %}</td>
+            <td>{% include link.html text="Biomechanics of Hand Rigging and Animation (?)" link="sessions/hand-rigging-and-animation" %}</td>   
+        </tr>
+        <tr>
+            <td style="max-width:100%;white-space:nowrap">2:30-3:20 PM</td>
+            <td colspan=2>{% include link.html text="Markerless Motion Capture/Novel (D10)" link="sessions/markerless-motion-capture" %}</td>
+            <td colspan=2>{% include link.html text="Muscles: The Workings of the Hand (DS)" link="sessions/muscles-the-workings-of-the-hand" %}</td>   
+        </tr>
+        <tr>
+            <td style="max-width:100%;white-space:nowrap">3:30-4:00 PM</td>
+            <td colspan=4 style="font-family:'Poppins',sans-serif;color:#03a9f4;font-size:0.9rem;font-weight:500">College Panel (DS)</td>  
+        </tr>
+    </tbody>
+</table>  
+
 {%
   include gallery.html
 
@@ -32,6 +74,7 @@ nav:
 {% include banner.html image="images/cmu-banner-inkscapepng.png" %}
 
 {% include section.html %}
+
 
 <!-- {%
   include feature.html

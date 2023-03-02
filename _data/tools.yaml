@@ -1,35 +1,60 @@
-- title: 3D Printing Legs
-  subtitle: Saul Schaffer
+# - title: 3D Printing Legs
+#   subtitle: Saul Schaffer
+#   group: featured
+#   image: images/3d_printing_legs.jpg
+#   link: sessions/3d-printing-legs
+#   description: Learn now 3D scanning + 3D printing is used for low-cost prosthetic devices to broaden access to healthcare.
+#   tags:
+#     - prosthetics
+#     - 3D printing
+#     - healthcare
+
+- title: Mechanics of Rock Climbing
+  subtitle: Nathan Zimmerer
   group: featured
-  image: images/3d_printing_legs.jpg
-  link: sessions/3d-printing-legs
-  description: Learn now 3D scanning + 3D printing is used for low-cost prosthetic devices to broaden access to healthcare.
+  image: images/alex-honnold.jpg
+  link: sessions/become-a-rock-climber
+  description: Explore different ways to leverage biomechanics in the rock climbing sport.
+  # repo: greenelab/lab-website-template
+  # https://pharma-mon.com/organ-transport-monitoring/future-of-cryopreservation-clinical-applications/
   tags:
-    - prosthetics
-    - 3D printing
-    - healthcare
+    - rock climbing
+    - hand/bio
+
+- title: Biomechanics of Hand Rigging and Animation
+  subtitle: Dailyn Despradel, Prakarsh Yadav
+  group: featured
+  image: images/thing.gif
+  link: sessions/hand-rigging-and-animation
+  description: Learn the process of 3D character animation through the rigging and animation of "Thing".
+  # repo: greenelab/lab-website-template
+  # https://gifer.com/en/46Hi
+  tags:
+    - animation
+    - hand/bio
 
 - title: "Muscles: The workings of the Hand"
   subtitle: Erica Martelly
-  group: featured
+  group: more
   image: images/muscles-the-working-of-the-hand-1.png
   link: sessions/muscles-the-workings-of-the-hand
   description: Learn about hand anatomy and make a model hand to display how tendons work.
   # repo: greenelab/lab-website-template
   tags:
     - muscles
+    - hand/bio
 
-- title: Remote Controlled Muscles
-  subtitle: Saul Schaffer
-  group: more
-  image: images/remote-controlled-muscles.gif
-  link: sessions/remote-controlled-muscles
-  description: Learn about how your brain controls your muscles with hands on electrophysiology demo.
-  # repo: greenelab/lab-website-template
-  tags:
-    - muscles
-    - EMG
-    - controls
+# - title: Remote Controlled Muscles
+#   subtitle: Saul Schaffer
+#   group: more
+#   image: images/remote-controlled-muscles.gif
+#   link: sessions/remote-controlled-muscles
+#   description: Learn about how your brain controls your muscles with hands on electrophysiology demo.
+#   # repo: greenelab/lab-website-template
+#   tags:
+#     - muscles
+#     - EMG
+#     - controls
 
 - title: Markerless Motion Capture
   subtitle: Vu Phan, Jack Li
@@ -44,6 +69,7 @@
     - games
     - computer vision
     - motion
+    - mechanics
 
 - title: Challenges during Organ Preservation
   subtitle: Devarsh Vispute, Rounak Baheti
@@ -57,28 +83,8 @@
     - research
     - cryo-EM
     - healthcare
+    - mechanics
 
-- title: Mechanics of Rock Climbing
-  subtitle: Nathan Zimmerer
-  group: more
-  image: images/alex-honnold.jpg
-  link: sessions/become-a-rock-climber
-  description: Explore different ways to leverage biomechanics in the rock climbing sport.
-  # repo: greenelab/lab-website-template
-  # https://pharma-mon.com/organ-transport-monitoring/future-of-cryopreservation-clinical-applications/
-  tags:
-    - rock climbing
-
-- title: Biomechanics of Hand Rigging and Animation
-  subtitle: Dailyn Despradel, Prakarsh Yadav
-  group: more
-  image: images/thing.gif
-  link: sessions/hand-rigging-and-animation
-  description: Learn the process of 3D character animation through the rigging and animation of "Thing".
-  # repo: greenelab/lab-website-template
-  # https://gifer.com/en/46Hi
-  tags:
-    - animation
 
 - title: MiniRHex
   subtitle: Alex Stutt, Paul Nadan, Joe Payne, James Zhu
@@ -91,4 +97,5 @@
   tags:
     - robotics
     - motion
+    - mechanics
 

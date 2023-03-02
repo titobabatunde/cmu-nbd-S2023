@@ -35,7 +35,7 @@ Welcome to National Biomechanics Day at CMU! Register for the event [here](regis
 # Highlights
 
 {% capture text %}
-Come register to this single-day event where we introduce Biomechanics to high school students and teachers through: hands-on activities, demos, and Q&A \[ [1](https://www.projectcounter.org/about/register/icon-register/) \].
+Come register to this single-day event where we introduce Biomechanics to high school students and teachers through: hands-on activities, demos, and Q&A. Also check out the schedule here \[ [1](https://www.projectcounter.org/about/register/icon-register/) \]!
 
 {%
   include link.html
