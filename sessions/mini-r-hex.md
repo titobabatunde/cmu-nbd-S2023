@@ -2,7 +2,7 @@
 title: MiniRHex
 ---
 
-# MiniRHex
+# {% include link.html icon="fa-brands fa-github-alt" link="https://robomechanics.github.io/MiniRHex/" %}MiniRHex
 
 {% capture text %}
 
