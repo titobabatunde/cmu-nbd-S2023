@@ -8,7 +8,7 @@ youtubeId: jXFwuDEkQJI
 Welcome to National Biomechanics Day at CMU! Register for the event [here](registration/). This is a single-day in-person at CMU on March 25th. We aim to introduce Biomechanics to high school students and teachers. Learn about [the muscles in your hand](sessions/muscles-the-workings-of-the-hand), [3D character animation of Thing from the Addams Family ](sessions/hand-rigging-and-animation), how to be a [rock climber](sessions/become-a-rock-climber), and [more](activities/)!
 <!-- https://fontawesome.com/icons/signature?s=solid&f=classic -->
 <!-- https://github.com/nathancy/jekyll-embed-video#embed-youtube -->
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubeplayer.html id=page.youtubeId %}
 {:.center}
 
 {%
